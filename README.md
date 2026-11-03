@@ -1,7 +1,7 @@
 <div align="center" markdown="1" dir="ltr">
 <div align="center">
     
-[![Downloads](https://img.shields.io/github/downloads/Iwanian/Iwana-VPN/total?style=flat-square&logo=github)](https://github.com/Iwanian/Iwana-VPN/releases/)[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify&color=blue)](https://telegram.dog/I_w_a_n_a)
+[![Downloads](https://img.shields.io/github/downloads/Iwanian/Iwana-VPN/total?style=flat-square&logo=github)](https://github.com/Iwanian/Iwana-VPN/releases/)
 
 </div>
 
@@ -78,6 +78,3 @@ Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH, etc.
 
 
 ما برای سرویس هایمان به کمک مالی هم نیاز داریم. تمامی فعالیت‌های ما به صورت داوطلبانه انجام می‌شود و حمایت‌های مالی صرف توسعه پروژه می‌شود. اطلاعات و آدرس‌های حمایت‌ از ما را در [این لینک](https://hiddify.com/fa/donation-and-support/) مشاهده فرمایید.
-<p align=center>
- ساخته شده با <a rel="" target="_blank" href="https://contrib.rocks">Contrib.Rocks</a> 
-</p>
