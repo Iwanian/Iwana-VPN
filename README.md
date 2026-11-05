@@ -1,23 +1,52 @@
 <div dir="rtl" align="right">
 
-# فیلترشکن ایوانا (Iwana VPN)
+<h1 align="center">فیلترشکن ایوانا (Iwana VPN)</h1>
 
 ابزار عبور از فیلترینگ برای اندروید، ویندوز و لینوکس؛ با یک دکمهٔ اتصال ساده، چند «سرور» آماده، و راهی برای بروزرسانی سرورها حتی وقتی اینترنت بین‌الملل قطع است.
-بدون توضیح اضافه بریم برای دانلود برنامه :)
 
 ---
 
-## ۱) دانلود
+## 📥 دانلود مستقیم
 
-آخرین نسخه‌ رو همینجا دانلود کنید:
+آخرین نسخه را همین‌جا دانلود کنید:
 
-| سیستم | فایل | نکته |
-|---|---|---|
-| اندروید ۷ و بالاتر | `IwanaVPN-<نسخه>-android.apk` | زیر اندروید ۷ نصب نمی‌شود |
-| ویندوز ۶۴ بیت (رایج‌ترین) | `IwanaVPN-Setup-<نسخه>-x64.exe` | اگر مطمئن نیستید این را بردارید |
-| ویندوز ۳۲ بیت | `IwanaVPN-Setup-<نسخه>-ia32.exe` | سیستم‌های قدیمی |
-| ویندوز ARM64 | `IwanaVPN-Setup-<نسخه>-arm64.exe` | لپ‌تاپ‌های ARM |
-| لینوکس | `IwanaVPN-<نسخه>-x86_64.AppImage` | ۶۴ بیت |
+<table>
+  <thead align="right">
+    <tr>
+      <th>سیستم‌عامل</th>
+      <th>دانلود</th>
+    </tr>
+  </thead>
+  <tbody align="right">
+    <tr>
+      <td>اندروید</td>
+      <td>
+        <a href="https://github.com/Iwanian/Iwana-VPN/releases/latest/download/IwanaVPN-android-Universal.apk"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
+        <sub>اندروید ۷ و بالاتر؛ زیر اندروید ۷ نصب نمی‌شود</sub>
+      </td>
+    </tr>
+    <tr>
+      <td>ویندوز</td>
+      <td>
+        <a href="https://github.com/Iwanian/Iwana-VPN/releases/latest/download/IwanaVPN-Windows-x64.exe"><img src="https://img.shields.io/badge/EXE-x64-0078d6.svg?logo=windows"></a><br>
+        <a href="https://github.com/Iwanian/Iwana-VPN/releases/latest/download/IwanaVPN-Windows-x86.exe"><img src="https://img.shields.io/badge/EXE-x86-0078d6.svg?logo=windows"></a><br>
+        <a href="https://github.com/Iwanian/Iwana-VPN/releases/latest/download/IwanaVPN-Windows-arm64.exe"><img src="https://img.shields.io/badge/EXE-arm64-0078d6.svg?logo=windows"></a><br>
+        <sub>x64: برای 64 بیت، رایج‌ترین (اگر مطمئن نیستید این را بردارید) — x86: سیستم‌های 32 بیت قدیمی — arm64: لپ‌تاپ‌های ARM</sub>
+      </td>
+    </tr>
+    <tr>
+      <td>لینوکس</td>
+      <td>
+        <a href="https://github.com/Iwanian/Iwana-VPN/releases/latest/download/IwanaVPN-Linux.AppImage"><img src="https://img.shields.io/badge/AppImage-x64&x86-f84e29.svg?logo=linux"></a><br>
+        <sub>64 و 86 بیت</sub>
+      </td>
+    </tr>
+     <tr>
+      <td>مک</td>
+      <td>به‌زودی</td>
+    </tr>
+  </tbody>
+</table>
 
 کانال تلگراممون هم که عضوین؟ [ورود به کانال تلگرام](https://t.me/I_w_a_n_a)
 
@@ -117,4 +146,6 @@
 
 ۶. اگه تعداد کاربر های فیلترشکن زیاد بشه قطع میشه فیلترشکن؟
 نه عزیزان😂. فیلترشکن ایوانا اینجوریه که هر چقدر کاربر بیشتری متصل بشه، فیلترشکن تمیزتر، سریعتر و ریجن هاش مشخص تر میشه.
+موفق و متصل باشید!
+<p align="center">رها در خلأ</p>
 </div>
